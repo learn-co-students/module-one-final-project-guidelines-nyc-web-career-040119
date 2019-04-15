@@ -56,6 +56,9 @@ Previous - "Welcome back, {username}!"
 4. Go home (exits game)
 
 ### View Morty-dex ###
+Total Aliens Collected: x out of total
+Total Planets Visited: x out of total
+
 1. Alien 1
    - Planet: Planet Name
    - Species: Species Name
@@ -68,6 +71,8 @@ Previous - "Welcome back, {username}!"
    - Welcome Menu
 
 ### View High Score ###
+Current Score - Total Points
+
 1. User 1 - Total Points
 2. User 2 - Total Points
 3. User 3 - Total Points
