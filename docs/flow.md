@@ -1,3 +1,7 @@
+### Notes
+- 10 planet jumps - we will need a round count
+- Sum up score every planet
+
 ### Initialize ###
 Create a new table with info from API, we'll set parameters (ie Planet only, etc)
 
